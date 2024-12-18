@@ -3,7 +3,7 @@ layout: default
 title: Welcome to NNCOTR
 ---
 
-# Welcome to NNCOTR1
+# Welcome to NNCOTR
 * Table of Contents
 {:toc}
 
