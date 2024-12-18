@@ -1,5 +1,5 @@
-title: "我的项目网站"
-description: "这是一个基于 Architect 主题的 GitHub Pages 网站"
+title: "NNCOTR"
+<!-- description: "" -->
 theme: jekyll-theme-architect  # 使用 Architect 主题
 markdown: kramdown
 kramdown:
