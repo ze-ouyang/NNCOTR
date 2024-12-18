@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 欢迎来到我的项目网站
+title: Welcome to NNCOTR
 ---
 
 # 欢迎来到我的项目
