@@ -4,8 +4,8 @@ title: Welcome to NNCOTR
 ---
 
 # Welcome to NNCOTR1
-
-这里是项目的简要介绍。  
+* Table of Contents
+{:toc}
 
 ## 研究背景
 使用 Architect 主题展示内容。
