@@ -1,5 +1,5 @@
 title: "NNCOTR"
-<!-- description: "" -->
+description: "This is a documentation for NNCOTR"
 theme: jekyll-theme-architect  # 使用 Architect 主题
 markdown: kramdown
 kramdown:
