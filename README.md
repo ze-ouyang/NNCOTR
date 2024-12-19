@@ -9,4 +9,6 @@ Transition Radiation (TR) is emitted when a charged particle crosses from one me
 
 Therefore, COTR contains the 3D info of the electron bunches. However, reverse derivation of this 3D info from COTR is not as straightforward as the forward process. This is becuase the equations describing the forward process are analytically irreversible. The general way to solve such a problem is supposing the 3D structure of the electron bunch is a parameterized function, calculating resultant COTR, comparing with measured COTR guided by a objective function, and iterating the parameters of the electron bunch. While tradiational algorithms like genetic algorithm, and differential evolution have been used in such a reconstruction problem, neural network is emerging as an alternative way, which is the topic for this project.
 
+In this project, we first develop high performance numertical integral for efficiently calculating the forward process
+
 
