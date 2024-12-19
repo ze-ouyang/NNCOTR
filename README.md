@@ -4,5 +4,5 @@
 
 ---
 # Introduction
-Transition Radiation (TR) is generated when a charged particle crosses from one medium into another with different index of refractive.
+## Transition Radiation (TR) is generated when a charged particle crosses from one medium into another with different index of refractive. 
 
