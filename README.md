@@ -5,5 +5,5 @@
 
 ---
 # Introduction
-Transition Radiation (TR) is emitted when a charged particle crosses from one medium into another with different index of refractive. 
+Transition Radiation (TR) is emitted when a charged particle crosses from one medium into another with different index of refractive. For electron bunches accelerated from Laser-Wakefield-Accelerator (LWFA), they can drive TR into Optical range, i.e. Coherent Optical Transition Radiation (COTR).
 
