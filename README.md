@@ -11,4 +11,6 @@ Therefore, COTR contains the 3D structure information of the electron bunches. H
 
 ![E=mc^2](https://latex.codecogs.com/png.latex?E%3Dmc%5E2)
 
-https://latex.codecogs.com/svg.image?\rho(x_s,y_s,z_s)
+<img src="https://latex.codecogs.com/svg.image?1+sin^2(x)" />
+
+
