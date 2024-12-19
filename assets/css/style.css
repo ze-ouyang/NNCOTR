@@ -1,15 +1,3 @@
-/* 修改标题字体为正体 */
-h1, h2, h3, h4, h5, h6 {
-    font-style: normal; /* 设置为正体 */
-}
-
-/* 修改正文字体为正体 */
-body {
+h1, h2 {
     font-style: normal;
-}
-
-/* 可选：调整字体族和大小 */
-body {
-    font-family: Arial, sans-serif; /* 设置字体族 */
-    font-size: 16px;               /* 设置字体大小 */
 }
