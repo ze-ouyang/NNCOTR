@@ -1,2 +1,2 @@
-### NNCOTR: Neural-Network-based reconstruction of relativistic electron bunches structure by Coherent Optical Transition Radiation
+### NNCOTR: Neural-Network-based reconstruction of the 3D structure of relativistic electron bunches by Coherent Optical Transition Radiation
 
