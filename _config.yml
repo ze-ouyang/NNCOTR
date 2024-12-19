@@ -1,5 +1,4 @@
 title: "NNCOTR"
-custom_css: assets/css/style.css 
 description: "Documentation Page"
 theme: jekyll-theme-architect  # 使用 Architect 主题
 markdown: kramdown
