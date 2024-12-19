@@ -7,7 +7,7 @@ title: Welcome to NNCOTR
 {:toc}
 
 <span style="font-family: Times New Roman; font-size: 16px;">
-# This text is displayed in Times New Roman.
+# Introduction
 </span>
 
 When a charged particle crosses two medium with different index of refractive, 
