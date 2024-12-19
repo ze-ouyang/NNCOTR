@@ -9,3 +9,4 @@ Transition Radiation (TR) is emitted when a charged particle crosses from one me
 
 Therefore, COTR contains the 3D structure information of the electron bunches. However, obtaining such info from COTR is not as straight forward as the aforementioned physical model, because of the complicated mathematical f
 
+![E=mc^2](https://latex.codecogs.com/png.latex?E%3Dmc%5E2)
