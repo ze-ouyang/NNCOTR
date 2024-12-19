@@ -1,8 +1,0 @@
-title: "NNCOTR"
-description: "Documentation Page"
-theme: jekyll-theme-architect  # 使用 Architect 主题
-markdown: kramdown
-kramdown:
-  math_engine: mathjax  # 启用数学公式
-  toc: true             # 自动生成目录
-  toc_levels: 1..3        # 目录显示的标题级别，h1 到 h3 
